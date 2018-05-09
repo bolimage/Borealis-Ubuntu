@@ -4319,7 +4319,7 @@ filechooser placessidebar.sidebar scrollbar,
 @define-color wm_unfocused_title alpha(#cfdae7, 0.5);
 @define-color wm_bg #2f343f;
 @define-color wm_bg_unfocused #323843;
-@define-color wm_highlight #363b48;
+@define-color wm_highlight #363b49;
 @define-color wm_shadow alpha(black, 0.35);
 @define-color wm_button_close_bg #cc575d;
 @define-color wm_button_close_hover_bg #d7797d;
