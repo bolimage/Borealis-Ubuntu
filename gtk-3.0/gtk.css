@@ -2813,7 +2813,7 @@ colorchooser .popover.osd {
     -gtk-icon-effect: highlight; }
 
 .scale-popup button:hover {
-  color: #2f343f;
+  color: #2f353f;
   border-color: #D7D7D7;
   background-color: white; }
 
