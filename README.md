@@ -1,9 +1,9 @@
 # Borealis-Ubuntu
 Easy On The Eyes Gnome 3.28 theme.
 
-Thanks to horst3180 and his Arc theme for inspiration.
-
 Theme can be download here : https://www.opendesktop.org/p/1228111/
+
+Thanks to horst3180 and his Arc theme for inspiration.
 
 <b>SCREENSHOT</b>
 
