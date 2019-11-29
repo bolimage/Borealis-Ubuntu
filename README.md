@@ -6,4 +6,4 @@ Theme can be download here : https://www.pling.com/p/1228111/
 
 <b>SCREENSHOT</b>
 
-<img src="https://cdn.scrot.moe/images/2018/10/16/screen32655.jpg" alt="screen32655.jpg" border="0" />
+<img src="https://www.cjoint.com/doc/19_11/IKDjs7pIBrR_screen63447.jpg" alt="screen63447.jpg" border="0" />
